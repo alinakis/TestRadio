@@ -4,7 +4,7 @@ VirtualBox XP emulator with TestRadio
 
 
 
-## Supported Versions
+## Υποστυριζόμενοι επεξεργαστές.
 
 Right now we are on version 1.0.1
 
