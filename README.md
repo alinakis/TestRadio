@@ -20,12 +20,57 @@ VirtualBox XP emulator with TestRadio
 - Κατεβάστε το είδωλο των Windows XP με προεγκατεστημένο το Test Radio από [εδώ](https://github.com/alinakis/TestRadio/releases/download/v.1.0.1/WindowsXP.ova)  
 - Αν κατά την εγκατάσταση σας πει οτι λείπουν από τον υπολογιστή σας τα VC Redistributables κατεβάστε τα και εγκαταστήστε τα από [εδώ](https://github.com/alinakis/TestRadio/releases/download/v.1.0.1/VC_redist.x64.exe)  
 
-## **Εγκατάσταση**
+## **Εγκατάσταση VirtualBox**
 Το αρχείο που ξεκινάει με VirtualBox- είναι ο εξομοιωτής που θα πρέπει να εγκαταστήσετε, και το WindowsXP.ova είναι το αρχείο που περιέχει την εγκατάσταση των windows XP μαζί το Test Radio προεγκατεστημένο.  
 Ξεκινάτε με διπλό κλικ την εγκατάσταση του Virtual Box.  
 Αν το κομπιούτερ σας δεν είναι ενημερωμένο, είναι πολύ πιθανό να σας τα VC REDISTRIBUTABLES.  
-Αφού γίνει η εγκατάσταση στην επιφάνεια εργασίας σας θα δείτε το παρακάτω εικονίδιο.
-![](https://github.com/alinakis/TestRadio/blob/main/images/01.jpg)
+Αφού γίνει η εγκατάσταση στην επιφάνεια εργασίας σας θα δείτε το παρακάτω εικονίδιο.  
+![](https://github.com/alinakis/TestRadio/blob/main/images/01.jpg)  
+
+## **Εισαγωγή ειδώλου Windows XP**
+- Ανοίγετε μe διπλό κλικ το VirtualBox.
+- Μέσα σε όλο το πρόγραμμα που ανοίγει, επικεντρωνόμαστε στη γραμμή εργαλείων όπως φαινεται στη παρακάτω εικόνα.  
+ ![](https://github.com/alinakis/TestRadio/blob/main/images/03.jpg)  
+- Τώρα πατάμε στην επιλογή TOOLS για να δούμε την από κάτω εικόνα.  
+ ![](https://github.com/alinakis/TestRadio/blob/main/images/04.jpg)  
+- πατάμε πάνω στο IMPORT βλέπουμε την από κάτω εικόνα και πατάμε στον κίτρινο φάκελο.
+ ![](https://github.com/alinakis/TestRadio/blob/main/images/05.jpg)  
+- Επιλέγουμε το αρχείο WindowsXP.ova (ανάλογα με τη ρύθμιση του υπολογιστή σας, μπορεί να μη βλέπετε το .ova αλλά μόνο το windowsXP)    
+![](https://github.com/alinakis/TestRadio/blob/main/images/06.jpg)  
+- Το επιλέγουμε και πατάμε OK.  
+- Πατάμε NEXT.  
+![](https://github.com/alinakis/TestRadio/blob/main/images/07.jpg)  
+- Όταν ολοκληρωθεί και φτάσει το 100% θα πατήσετε το μικρό κοκκινο X πάνω δεξιά.  
+![](https://github.com/alinakis/TestRadio/blob/main/images/08.jpg)  
+- Πατήστε το Finish.  
+- Αφού πατήσετε Finish περιμένετε να πάει πάλι στο 100% και τότε θα δείτε το παρακάτω.  
+![](https://github.com/alinakis/TestRadio/blob/main/images/10.jpg)  
+- Στην αριστερή στήλγ κάτω από το Tools που μέχρι τώρα ήταν κενό, πλέον θα υπάρχει η επιλογή Windows XP.  
+- Το επιλέγουμε και πατάμε Start.  
+- Θα δούμε πάλι να φορτώνει και όταν φτάσει το 100% θα μας ανοίξει τα windows XP.  
+- Συγχαρητήρια, Ολοκληρώσατε την εγκατάσταση!!!  
+
+## **Ρύθμιση TestRadio**  
+- Πατήστε στο START.  
+- Πατήστε στο Test Radio.  
+- Είναι πολύ πιθανό κατά την πρώτη έναρξη να σας βγάλει το παρακάτω μύνημα λάθους.  
+![](https://github.com/alinakis/TestRadio/blob/main/images/12.jpg)  
+- Για να λυθεί το πρόβλημα, δείτε την παρακάτω εικόνα.  
+![](https://github.com/alinakis/TestRadio/blob/main/images/13.jpg) 
+- Πάτε VIEW -> Virtual Screen 1  
+- Και από εκεί κάνετε 2 επιλογές.
+- Resize to 1024x768.
+- Scale to 100%.
+- Αν αφού επιλέξετε το 1024 χ 768 η οθόνη είναι πολύ μικρή και σας δυσκολεύει στην ανάγνωση μπορείτε να δοκιμάσετε το scale to 125, 150 και 175%. Σε καμιά περίπτωση μην πιάσετε το παράθυρο και το τραβήξετε να μεγαλώσει, μιας και αυτό θα αλλάξει την ανάλυση και δεν θα δουλέψει το Test radio.  
+- Αφού λοιπόν έχετε φτιάξει την ανάλυσή σας, μπορείτε να πατήσετε πάνω στο START -> TEST RADIO ξεκινήσει η προσομοίωση της εξέτασης.  
+![](https://github.com/alinakis/TestRadio/blob/main/images/14.jpg) 
+
+## **Επίλυση Προβλημάτων**
+- Αν κατά το import σας βγάλει την παρακάτω οθόνη η παρόμοια οθόνη λάθους.  
+![](https://github.com/alinakis/TestRadio/blob/main/images/15.jpg)  
+- Βρείτε το αρχείο VboxSVC.log στείλτε το με email στο info@bluehost.gr ώστε να μπορέσουμε να βρούμε τι πήγε λάθος.  
+- Το αρχείο θα το βρείτε μέσα απο τo File Explorer (εξερευνηση αρχείων) στο: C:\Users\{you}\.Virtualbox  (προσέξτε τη . πριν το Virtualbox επίσης θα πρέπει να αντικατάστήσετε το {you} με το όνομα χρήστη που έχετε στον υπολογιστή.)
+
 
 
 
