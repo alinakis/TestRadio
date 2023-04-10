@@ -20,21 +20,15 @@ VirtualBox XP emulator with TestRadio
 - Κατεβάστε το είδωλο των Windows XP με προεγκατεστημένο το Test Radio από [εδώ](https://github.com/alinakis/TestRadio/releases/download/v.1.0.1/WindowsXP.ova)  
 - Αν κατά την εγκατάσταση σας πει οτι λείπουν από τον υπολογιστή σας τα VC Redistributables κατεβάστε τα και εγκαταστήστε τα από [εδώ](https://github.com/alinakis/TestRadio/releases/download/v.1.0.1/VC_redist.x64.exe)  
 
+## **Εγκατάσταση**
+Το αρχείο που ξεκινάει με VirtualBox- είναι ο εξομοιωτής που θα πρέπει να εγκαταστήσετε, και το WindowsXP.ova είναι το αρχείο που περιέχει την εγκατάσταση των windows XP μαζί το Test Radio προεγκατεστημένο.  
+Ξεκινάτε με διπλό κλικ την εγκατάσταση του Virtual Box.  
+Αν το κομπιούτερ σας δεν είναι ενημερωμένο, είναι πολύ πιθανό να σας τα VC REDISTRIBUTABLES.  
+Αφού γίνει η εγκατάσταση στην επιφάνεια εργασίας σας θα δείτε το παρακάτω εικονίδιο.
+![](https://github.com/alinakis/TestRadio/blob/main/images/01.jpg)
 
 
-![](https://github.com/alinakis/TestRadio/blob/main/images/03.jpg)
 
-
-## Υποστυριζόμενοι επεξεργαστές.
-
-Right now we are on version 1.0.1
-
-| Επεξεργαστής | Supported          |
-| ------- | ------------------ |
-| ΙNTEL   | :white_check_mark: |
-| AMD   | :white_check_mark: |
-| Mac Μ1  | :x:                |
-| Mac Μ2  | :x:                |
 
 ## Reporting a Vulnerability
 
