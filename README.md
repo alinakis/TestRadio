@@ -77,6 +77,5 @@ VirtualBox XP emulator with TestRadio
 
 
 
-## Reporting a Vulnerability
-
-Please contact info@bluehost.gr to report errors.
+## Αναφορά προβλημάτων  
+Παρακαλώ στείλτε email στο info@bluehost.gr για να αναφέρετε κάποιο πρόβλημα.
