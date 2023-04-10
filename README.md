@@ -1,5 +1,7 @@
 # TestRadio
-VirtualBox XP emulator with TestRadio
+VirtualBox XP emulator with TestRadio  
+Σας ευχομαι επιτυχία στις εξετάσεις σας.  
+Παρακάτω θα βρείτε τις οδηγίες για να μπορέσετε να τρέξετε το πρόγραμμα των εξετάσεων στον υπολογιστή σας.
 
 ## Υποστηριζόμενοι επεξεργαστές.
 
