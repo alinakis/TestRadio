@@ -9,6 +9,7 @@ VirtualBox XP emulator with TestRadio
 | ------- | ------------------ |
 | ΙNTEL   | :white_check_mark: |
 | AMD   | :white_check_mark: |
+| MAC INTEL | :white_check_mark: |
 | Mac Μ1  | :x:                |
 | Mac Μ2  | :x:                |
 
