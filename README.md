@@ -69,6 +69,8 @@ VirtualBox XP emulator with TestRadio
 ![](https://github.com/alinakis/TestRadio/blob/main/images/14.jpg) 
 
 ## **Επίλυση Προβλημάτων**
+
+**Πρόβλημα 1**
 - Αν κατά το import σας βγάλει την παρακάτω οθόνη η παρόμοια οθόνη λάθους.  
 ![](https://github.com/alinakis/TestRadio/blob/main/images/15.jpg)  
 - Με το file explorer πηγαίνεται στο C:\Users\{you}\ και διαγράψτε τους φακέλους .Virtualbox και VirtualBox VMs. (προσέξτε τη . πριν το Virtualbox επίσης θα πρέπει να αντικαταστήσετε το {you} με το όνομα χρήστη που έχετε στον υπολογιστή.)  
@@ -76,7 +78,13 @@ VirtualBox XP emulator with TestRadio
 - Αν το παραπάνω δεν δουλέψει βρείτε το αρχείο VboxSVC.log στείλτε το με email στο info@bluehost.gr ώστε να μπορέσουμε να βρούμε τι πήγε λάθος.  
 - Το αρχείο θα το βρείτε μέσα απο τo File Explorer (εξερεύνηση αρχείων) στο: C:\Users\{you}\.Virtualbox  (προσέξτε τη . πριν το Virtualbox επίσης θα πρέπει να αντικαταστήσετε το {you} με το όνομα χρήστη που έχετε στον υπολογιστή.)
 
-
+**Προβλημα 2**
+- Αν κατά τη προσπάθεια να τρέξετε τα windows XP σας παρουσιάσει τη παρακάτω οθόνη με το μύνημα "VT-X is disabled in bios..."
+![](https://github.com/alinakis/TestRadio/blob/main/images/16.jpg) 
+- Κανετε επανεκίνηση και πατήστε F2 ή DEL για να μπείτε στο BIOS.
+- Ψάχτε για την επιλογή VIRTUALIZATION TECHNOLOGY ή INTEL VIRTUALIZATION TECHNOLOGY, αυτό συνήθως είναι μέσα στην επιλογή CPU Configurations ή Advanced ή Security και πατήστε νε ενεργοποιηθεί (Enabled)
+- Αποθηκέυστε τις αλλαγές στο BIOS και κάνετε επανεκίνηση. 
+- Τώρα θα μπορέσετε να τρέξετε τα Windows XP μέσα από τον εξωμοιωτή.
 
 
 
