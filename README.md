@@ -79,12 +79,12 @@ VirtualBox XP emulator with TestRadio
 - Το αρχείο θα το βρείτε μέσα απο τo File Explorer (εξερεύνηση αρχείων) στο: C:\Users\{you}\.Virtualbox  (προσέξτε τη . πριν το Virtualbox επίσης θα πρέπει να αντικαταστήσετε το {you} με το όνομα χρήστη που έχετε στον υπολογιστή.)
 
 **Προβλημα 2**
-- Αν κατά τη προσπάθεια να τρέξετε τα windows XP σας παρουσιάσει τη παρακάτω οθόνη με το μύνημα "VT-X is disabled in bios..."
-![](https://github.com/alinakis/TestRadio/blob/main/images/16.jpg) 
-- Κανετε επανεκκίνηση και πατήστε F2 ή DEL για να μπείτε στο BIOS.
-- Ψάξτε για την επιλογή VIRTUALIZATION TECHNOLOGY ή INTEL VIRTUALIZATION TECHNOLOGY, αυτό συνήθως είναι μέσα στην επιλογή CPU Configurations ή Advanced ή Security και πατήστε να ενεργοποιηθεί (Enabled)
-- Αποθηκέυστε τις αλλαγές στο BIOS και κάνετε επανεκίνηση. 
-- Τώρα θα μπορέσετε να τρέξετε τα Windows XP μέσα από τον εξομοιωτή.
+- Αν κατά τη προσπάθεια να τρέξετε τα windows XP σας παρουσιάσει τη παρακάτω οθόνη με το μύνημα "VT-X is disabled in bios..."  
+![](https://github.com/alinakis/TestRadio/blob/main/images/16.jpg)   
+- Κανετε επανεκκίνηση και πατήστε F2 ή DEL για να μπείτε στο BIOS.  
+- Ψάξτε για την επιλογή VIRTUALIZATION TECHNOLOGY ή INTEL VIRTUALIZATION TECHNOLOGY, αυτό συνήθως είναι μέσα στην επιλογή CPU Configurations ή Advanced ή Security και πατήστε να ενεργοποιηθεί (Enabled)  
+- Αποθηκέυστε τις αλλαγές στο BIOS και κάνετε επανεκίνηση.   
+- Τώρα θα μπορέσετε να τρέξετε τα Windows XP μέσα από τον εξομοιωτή.  
 
 
 
