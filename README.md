@@ -9,6 +9,7 @@ VirtualBox XP emulator with TestRadio
 | ------- | ------------------ |
 | ΙNTEL   | :white_check_mark: |
 | AMD   | :white_check_mark: |
+| MAC INTEL | :white_check_mark: |
 | Mac Μ1  | :x:                |
 | Mac Μ2  | :x:                |
 
@@ -70,7 +71,9 @@ VirtualBox XP emulator with TestRadio
 ## **Επίλυση Προβλημάτων**
 - Αν κατά το import σας βγάλει την παρακάτω οθόνη η παρόμοια οθόνη λάθους.  
 ![](https://github.com/alinakis/TestRadio/blob/main/images/15.jpg)  
-- Βρείτε το αρχείο VboxSVC.log στείλτε το με email στο info@bluehost.gr ώστε να μπορέσουμε να βρούμε τι πήγε λάθος.  
+- Με το file explorer πηγαίνεται στο C:\Users\{you}\ και διαγράψτε τους φακέλους .Virtualbox και VirtualBox VMs. (προσέξτε τη . πριν το Virtualbox επίσης θα πρέπει να αντικαταστήσετε το {you} με το όνομα χρήστη που έχετε στον υπολογιστή.)  
+- Προσπαθήστε να κάνετε πάλι "Εισαγωγή ειδώλου Windows XP".  
+- Αν το παραπάνω δεν δουλέψει βρείτε το αρχείο VboxSVC.log στείλτε το με email στο info@bluehost.gr ώστε να μπορέσουμε να βρούμε τι πήγε λάθος.  
 - Το αρχείο θα το βρείτε μέσα απο τo File Explorer (εξερεύνηση αρχείων) στο: C:\Users\{you}\.Virtualbox  (προσέξτε τη . πριν το Virtualbox επίσης θα πρέπει να αντικαταστήσετε το {you} με το όνομα χρήστη που έχετε στον υπολογιστή.)
 
 
